@@ -33,7 +33,7 @@
 ## Notes
 
 ### Coding with Git
-![Screenshot1](./Assets/GitbashSC214122024.png)
-![Screenshot2](./Assets/GitbashSCSSHkeyauthenticated.png)
+![Screenshot1](./Assets/GitbashSC214122024A.PNG)
+![Screenshot2](./Assets/GitbashSCSSHkeyauthenticatedA.PNG)
 ### Git Guide
 ![Screenshot3](./Assets/GitGuide.png)

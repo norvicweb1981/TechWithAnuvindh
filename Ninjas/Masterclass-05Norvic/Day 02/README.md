@@ -15,4 +15,3 @@
 ## Hiding PII (Personally Identifiable Information)
 -   any information connected to a specific individual that can be used to uncover that individual's identity, such as their full name, email address, phone number, password, or SSH Keys.
 
-![Screenshot1](./Assets/Pull%20request.png)

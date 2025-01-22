@@ -58,3 +58,6 @@
 
 -   Edit Website
 ![Screenshot1](./Assets/WebsiteEdited.png)
+
+-   Edit Cloud is AWSome website
+![Screenshot](./Assets/CloudIsAWSomeEdited.png)

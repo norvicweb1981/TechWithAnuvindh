@@ -32,8 +32,8 @@
 
 ## Notes
 
-### Coding with Git
-![Screenshot1](./Assets/GitbashSC214122024A.PNG)
-![Screenshot2](./Assets/GitbashSCSSHkeyauthenticatedA.PNG)
+### Coding with Git - Generating keys in Gitbash
+![Screenshot1](./Assets/Regenerate%20Keys%20in%20Gitbash.jpg)
+
 ### Git Guide
 ![Screenshot3](./Assets/GitGuide.png)

@@ -1,9 +1,17 @@
-# The Wavelength of Lambda
+[back](/Ninjas/Masterclass-05Norvic/Day%2004/README.md)
 
-**AWS Lambda is a compute service that runs code and automatically manages compute resources.**
+# Lambda
 
 **What is Lambda?**
--  Runs your code without provisioning or managing servers.
+-  Service that lets one run code in the cloud without needing to setup servers.
+
+**What is it for?**
+
+-   Lambda executes code functions when an event is triggered.
+
+**Examples:**
+
+-   Trigger Lambda if a file is uploaded to S3, Execute a function if a new data is added to a database (RDS, DynamoDB).
 
 **Key Features**
 -   Versions - manage deployment with versions using beta testing for stable production version.

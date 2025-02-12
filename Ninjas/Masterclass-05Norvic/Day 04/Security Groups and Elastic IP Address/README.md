@@ -1,10 +1,20 @@
+[back](/Ninjas/Masterclass-05Norvic/Day%2004/README.md)
+
 # AWS Security Groups and Elastic IP Address
 
-**AWS Security Groups control traffic to resources and Elastic IP Address provide public IP addresses associated with resources.**
-
 **What is Security Groups and Elastic IP Address**
--   Security Groups - Act like virtual firewalls and can be associated with EC2
--   Elastic IP Address - Can be associated with a network interface in a VPC.
+-   Security Groups - is like a firewall in the cloud that has set rules what traffic is allowed.
+-   Elastic IP Address - is a static IP address that one can assign to AWS resources.
+
+**What is it used for?**
+
+-   Security Groups - controlling traffic either inbound or outbound for applying security to the network.
+-   Elastic IP Address - Use a fixed IP address to assign to resources for easier access to users.
+
+**Examples:**
+
+-   Security Groups - Allowing port 80 and port 443 to a web server.
+-   Elasic IP Address - Web Hosting, Allowing or Denying traffic to services
 
 **Key Features**
 -   Security Groups - Rules can be configured based on protocols and IP address.

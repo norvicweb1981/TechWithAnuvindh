@@ -1,9 +1,17 @@
-# Watch out for CloudWatch
+[back](/Ninjas/Masterclass-05Norvic/Day%2004/README.md)
 
-**AWS CloudWatch discussion about monitoring and observability features to monitor AWS resources.**
+# CloudWatch
 
 **What is CloudWatch?**
--  AWS CloudWatch monitors AWS resources and the applications that run on AWS real time.
+-  CloudWatch is a monitoring tool for applications and systems which collects performance data and logs.
+
+**What is it for?**
+
+- Monitoring resources like usage, activity, traffic performance. It helps notify if something is exceeding a threshold of usage and help troubleshoot issues.
+
+**Examples:**
+
+-   Website and application monitoring, Auto-Scaling Instances, Troubleshoot Issues. 
 
 **Key Features**
 -   CloudWatch dashboard - provides a user friendly console to display metrics of resources.

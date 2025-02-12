@@ -1,9 +1,17 @@
-# What is AWS EC2 All About?
+[back](/Ninjas/Masterclass-05Norvic/Day%2004/README.md)
 
-**AWS EC2 (Elastic Cloud Compute) is a service that allows users to rent virtual servers in Amazon's Data Centers. It provides scalable and secure cloud computing platform to deploy applications and virtual machines.**
+# AWS EC2 (Elastic Compute Cloud)
 
 **What is EC2?**
--   A service Amazon offers and is the Core compute of AWS technology. It allows developers secure and compute in the cloud.
+-   service that allows the creation of virtual machines or computers to run applications in the cloud.
+
+**What is it for?**
+
+-   gives one the ability to use computer instances over the cloud to run applications without needing physical hardware.
+
+**Examples:**
+
+-   Website hosting and applications, Game servers, Disaster recovery
 
 **Key Features**
 -   Scalability - launch up or down mutiple instances.

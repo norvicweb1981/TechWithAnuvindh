@@ -1,9 +1,17 @@
-# The Relationship of Amazon and RDS
+[back](/Ninjas/Masterclass-05Norvic/Day%2004/README.md)
 
-**AWS RDS (Relational Database Service) is an easy to manage cloud service to operate a relational database.**
+# RDS (Relational Database Service)
 
 **What is RDS?**
--  An affordable relational database optimized in the cloud. 
+-  A database service in the cloud which is easy to setup and maintain.
+
+**What is it for?**
+
+-   It is a ready to use database that stores data managed by AWS that can be scaled.
+
+**Examples:**
+
+-   Database for a website, Mobile Application, Inventory system.
 
 **Key Features**
 -   Easy to manage and deploy using Console, CLI, SDK or API calls.

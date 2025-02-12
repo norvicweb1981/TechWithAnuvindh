@@ -1,9 +1,17 @@
-# What in the world is AWS S3?
+[back](/Ninjas/Masterclass-05Norvic/Day%2004/README.md)
 
-**AWS S3 (Simple Storage Service) is an object storage service that offers scalability, data availability.**
+#  AWS S3 (Simple Storage Service)
 
 **What is S3?**
--   Store and retrieve any amount of data at anytime and from anywhere.
+-   is a cloud storage service to store and retreive data from anywhere.
+
+**What is it for?**
+
+-   It is a hard drive to keep files that can be scaled depends on the need.
+
+**Examples:**
+
+-   Backup Storage, Storing Media files for Websites.
 
 **Key Features**
 -   Storage management - lets you control how data is stored and organized.

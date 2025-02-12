@@ -1,9 +1,20 @@
-# SES and SNS for Everyone
+[back](/Ninjas/Masterclass-05Norvic/Day%2004/README.md)
 
-**AWS SES (Simple Email Service) and SNS (Simple Notification Service) is a service that includes message routing and broadcasting capabilities.**
+# SES (Simple Email Service) and SNS (Simple Notification Service)
 
 **What is SES and SNS?**
--  SES is designed for high volum email delivery while SNS offers a flexible message delivery across channels.
+-  SES is a cloud based email service that allows one to send and receive emails.
+-  SNS is a notification and messaging service that sends messages to recipients or systems.
+
+**What is it for?**
+
+-   SES - Allows one to configure an email service to send and receive messages.
+-   SNS - Send notifications and messages to using different services that also has SMS option to be sent to customers
+
+**Examples:**
+
+-   SES - sending emails like marketing offers, communication letters, and alerts.
+-   SNS - Monitoring to setup alerts, broadcast and event notifications, Mobile Push notifications.
 
 **Key Features**
 -   Allows publishers to send messages to specific topics

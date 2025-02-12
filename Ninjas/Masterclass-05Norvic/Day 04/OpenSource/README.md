@@ -1,9 +1,17 @@
-# Are you open to OpenSource?
+[back](/Ninjas/Masterclass-05Norvic/Day%2004/README.md)
 
-**OpenSource is a way of creating and sharing software that anyone can modify and improve.**
+# OpenSource
 
 **What is OpenSource?**
--  AWS Amazon Bedrock is a fully managed service that makes foundation models available through API. 
+-  Opensource is commonly a software which is available for everyone to modify.
+
+**What is it for?**
+
+-   It can improve a software by the use of collaboration where everyone can change it depending on the requirements.
+
+**Examples:**
+
+-   Linux, WordPress, Mozilla Firefox
 
 **Use cases**
 -   Software with source code that anyone can inspect, modify, and enhance.
@@ -13,9 +21,6 @@
 
 **Disadvantages**
 -   Compatibility and integration, security risks, intellectual property concerns.
-
-**Examples**
--   Mozilla, Python, VLC Media Player, Linux
 
 **Case Studies**
 -  Apache is an opensource project and also MySQL.

@@ -1,9 +1,17 @@
-# ELB for the Computing Weight
+[back](/Ninjas/Masterclass-05Norvic/Day%2004/README.md)
 
-**AWS ELB (Elastic Load Balanceer) distributes incoming application traffic across multiple targets.**
+# ELB (Elastic Load Balancer)
 
 **What is ELB?**
--  AWS service that distributes workloads across multiple compute resource like virtual servers.
+-  A service to distribute traffic using multiple servers like EC2 instances for easier workload distribution.
+
+**What is it for?**
+
+-   It helps with easing the workload being done by servers to ensure there are no issues like latency or failure.
+
+**Examples:**
+
+-   Website hosting, video streaming, mobile applications
 
 **Key Features**
 -   High throughput - designed to handle traffic as it grows.

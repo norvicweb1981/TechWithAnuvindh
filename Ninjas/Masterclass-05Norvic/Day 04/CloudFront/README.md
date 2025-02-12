@@ -1,9 +1,17 @@
-# Getting Ahead of CloudFront
+[back](/Ninjas/Masterclass-05Norvic/Day%2004/README.md)
 
-**AWS CloudFront is a Content Delivery Network service that accelerates distribution of static and dynamic web content.**
+# CloudFront
 
 **What is CloudFront?**
--  web service that speeds up the distribution of web content like html, css, js and image files to users.
+-  AWS service that delivers content to websites faster by distributing data from server locations near the users who are accessing it
+
+**What is it for?**
+
+- It is a faster way of delivering website content to where users are accessing it by getting data from the main server to a nearby server
+
+**Examples:**
+
+-   Wesbites like E-Commerce sites, Video Streaming Service, Software updates.
 
 **Key Features**
 -   Availability - Redundancy by supporting multiple origins for backend architecture.

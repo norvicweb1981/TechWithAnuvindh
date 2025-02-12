@@ -1,9 +1,17 @@
-# The Dynamic DynamoDB
+[back](/Ninjas/Masterclass-05Norvic/Day%2004/README.md)
 
-**AWS Dynamo DB is a serveless database with no server provisioning and management required.**
+# DynamoDB
 
 **What is DynamoDB?**
--  Serveless, NoSQL, fully managed database with high performance at any scale.
+-  Cloud based database service to store large amounts of data that is easily accessible.
+
+**What is it for?**
+
+-   It's primary purpose is to store and organize data and be able to access it immediately for easy management.
+
+**Examples:**
+
+-   Websites for E-Commerce, Mobile Applications.
 
 **Key Features**
 -  Serverless - No provisioning of servers and software to install.

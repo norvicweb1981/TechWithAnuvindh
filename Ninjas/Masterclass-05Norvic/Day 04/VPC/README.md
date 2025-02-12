@@ -1,9 +1,17 @@
-# What's up in AWS VPC?
+[back](/Ninjas/Masterclass-05Norvic/Day%2004/README.md)
 
-**AWS VPC (Virtual Private Cloud)allows one to launch AWS resources in a logically isolated virtual network.**
+#   AWS VPC (Virtual Private Cloud)
 
 **What is VPC?**
--  launch a virtual network with the benefits of using the scalable infrastructure of AWS.
+-  is a service that lets one create a private segment or netowrk of AWS resources.
+
+**What is it for?**
+
+-   It can create a private network that is isolated which one can control.
+
+**Examples:**
+
+-   For security and private connectivity, Website hosting
 
 **Key Features**
 -   Configuration of subnets, Ip addressing, routing, Gateways and endpoints

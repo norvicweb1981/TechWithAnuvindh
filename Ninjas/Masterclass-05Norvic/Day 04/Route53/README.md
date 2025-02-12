@@ -1,9 +1,17 @@
-# The Road to Route 53
+[back](/Ninjas/Masterclass-05Norvic/Day%2004/README.md)
 
-**AWS Route 53 is provides domain administration, DNS routing and health checking.**
+# Route 53
 
 **What is Route 53?**
--  AWS Route 53 is a scalable Domain Name System (DNS) web service. 
+-  AWS Route 53 is a DNS (Domain Name System) service to route traffic to website locations.
+
+**What is it for?**
+
+-   It translates readable websites to IP addresses to direct users to connect to websites easily.
+
+**Examples:**
+
+-   Website hosting, Domain registration, Traffic routing
 
 **Key Features**
 -   Domain registration - register domain names for your website or web application.

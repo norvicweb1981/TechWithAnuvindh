@@ -1,9 +1,17 @@
-# I am what IAM
+[back](/Ninjas/Masterclass-05Norvic/Day%2004/README.md)
 
-**AWS IAM (Identity and Access Management) is a service that helps administrators securely control access to AWS resources.**
+# IAM (Identity and Access Management)
 
 **What is IAM?**
--  AWS service that you can use to authenticate and authorize the access of resources.
+-  AWS service that lets one create administrative acces to the different services in AWS.
+
+**What is it for?**
+
+-   It creates accounts with permissions to who can access the services in AWS for security purposes.
+
+**Examples:**
+
+-  Setting up Administrator and standard roles for users, Multi-Factor Authentication (MFA) 
 
 **Key Features**
 -   Securely manage identities

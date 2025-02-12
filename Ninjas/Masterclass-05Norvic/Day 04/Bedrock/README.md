@@ -1,9 +1,17 @@
-# The Magnificent Amazon Bedrock
+[back](/Ninjas/Masterclass-05Norvic/Day%2004/README.md)
 
-**AWS Amazon Bedrock evaluates foundation models for use cases, privately customer with your data.**
+# Amazon Bedrock
 
 **What is Amazon Bedrock?**
--  AWS Amazon Bedrock is a fully managed service that makes foundation models available through API. 
+-  Amazon Bedrock is a service that deploys generative Artificial Intelligence (AI) applications.
+
+**What is it for?**
+
+-   Amazon Bedrock helps integrate AI features to applications and websites.
+
+**Examples:**
+
+-   AI chatbot, creating content, understanding and answering questions.
 
 **Key Features**
 - Access to range leading foundation models
